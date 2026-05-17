@@ -1,0 +1,19 @@
+# IDEs
+.idea/
+.vscode/
+*.iml
+*.class
+*.log
+
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+
+# Environment
+.env
+*.properties.local
+
+# OS
+.DS_Store
+Thumbs.db
